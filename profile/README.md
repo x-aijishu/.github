@@ -12,7 +12,7 @@ Build with AI, from knowledge to real hardware.
 [需要链接：联系邮箱或反馈入口] 
 -->
 <p align="center">
-  <img src="AijishuBanner.png" alt="AIJISHU" width="100%">
+  <img src="assets/AijishuBanner.png" alt="AIJISHU" width="100%">
 </p>
 
 ## Products
@@ -164,7 +164,7 @@ npm install -g jishushell
 欢迎关注产品进展、真实测试和开发记录。
 
 - 官方网站：https://aijishu.com/
-- 公众号：[需要图片或链接：公众号二维码/公众号介绍页]
+- 微信服务号：极术社区
 - 小红书：极术社区AI实验室
 - npm：https://www.npmjs.com/~manager-aijishu
 - 商务与合作：bd@aijishu.com

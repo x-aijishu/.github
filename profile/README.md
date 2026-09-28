@@ -11,6 +11,9 @@ Build with AI, from knowledge to real hardware.
 [需要链接：公众号介绍页或二维码图片]
 [需要链接：联系邮箱或反馈入口] 
 -->
+<p align="center">
+  <img src="AijishuBanner.png" alt="AIJISHU" width="100%">
+</p>
 
 ## Products
 
@@ -35,12 +38,8 @@ JishuDB 是一个面向个人和团队的知识库，让资料能够被整理、
 
 A local-first knowledge base for humans and AI agents.
 
-[了解 JishuDB] · [桌面版下载] · [Agent Skills] · [问题反馈]
+[了解 JishuDB](https://aijishu.com/jishudb) · [桌面版下载](https://github.com/x-aijishu/jishudb-desktop-releases) · [Agent Skills](https://github.com/x-aijishu/jishudb-skills) · [问题反馈](https://github.com/x-aijishu/jishuDB-desktop-releases/issues)
 
-[需要链接：JishuDB 对外产品页或公开文档；如果核心仓库保持私有，不要链接私有仓库]
-[需要链接：https://github.com/x-aijishu/jishudb-desktop-releases]
-[需要链接：https://github.com/x-aijishu/jishudb-skills]
-[需要链接：JishuDB 公开反馈入口]
 
 ### JishuShell
 
@@ -48,11 +47,7 @@ JishuShell 是 AI Agent 的统一管理面板，用于管理 Agent 实例、模�
 
 All your agents, one JishuShell.
 
-[了解 JishuShell] · [npm 安装] · [问题反馈]
-
-[需要链接：https://github.com/x-aijishu/jishushell]
-[需要链接：https://www.npmjs.com/package/jishushell]
-[需要链接：JishuShell Issues 或反馈入口]
+[了解 JishuShell](https://aijishu.com/jishushell) · [npm 安装](https://www.npmjs.com/package/jishushell) · [问题反馈](https://github.com/x-aijishu/jishushell/issues)
 
 ### JishuBench
 
@@ -60,12 +55,9 @@ JishuBench 是面向边缘设备的模型与 Agent 评测工具。评测流程�
 
 Host-target evaluation infrastructure for models and AI agents on edge devices.
 
-[了解 JishuBench] · [使用文档] · [问题反馈]
+[了解 JishuBench](https://aijishu.com/jishubench) · [下载JishuBench](https://github.com/x-aijishu/jishubench) · [问题反馈](https://github.com/x-aijishu/jishubench/issues)
 
-[需要链接：https://github.com/x-aijishu/jishubench]
-[需要链接：JishuBench 文档地址]
-[需要链接：https://github.com/x-aijishu/jishubench/issues]
-
+<!--
 ## JishuBuddy in 30 Seconds
 
 [需要图片：JishuBuddy 20至30秒演示 GIF 或短视频封面。建议展示“提出任务—连接开发板—读取真实设备信息—返回结果—危险操作等待审核”的完整过程。]
@@ -87,7 +79,7 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 [开始使用 JishuBuddy]
 
 [需要链接：JishuBuddy 快速开始文档或 GitHub 产品仓库]
-
+-->
 ## Agent Skills
 
 我们正在把具体问题做成 Agent 可以发现和使用的 Skills。
@@ -96,18 +88,16 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 
 围绕 Raspberry Pi 的首次配置、SSH 排障、串口救援和设备健康检查，让 Agent 先识别问题；需要真实设备证据时，在用户明确同意后安装或复用 JishuBuddy。
 
-[查看 JishuBuddy Skills]
+[查看 JishuBuddy Skills](https://github.com/x-aijishu/jishubuddy-skills)
 
-[需要链接：https://github.com/x-aijishu/jishubuddy-skills]
 
 ### JishuDB Skills
 
 覆盖知识库连接与检索、行业研究、数据核验、PPT、网站、公众号和小红书内容制作等任务。
 
-[查看 JishuDB Skills]
+[查看 JishuDB Skills](https://github.com/x-aijishu/jishudb-skills)
 
-[需要链接：https://github.com/x-aijishu/jishudb-skills]
-
+<!--
 ## Featured Projects
 
 ### Raspberry Pi diagnostics with JishuBuddy
@@ -133,7 +123,7 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 [查看项目]
 
 [需要链接：https://github.com/x-aijishu/jishubench]
-
+-->
 ## Get Started
 
 ### Install JishuBuddy
@@ -152,9 +142,8 @@ npm install -g jishubuddy
 
 jishubuddy
 
-[查看完整安装说明]
+[查看完整安装说明](https://www.npmjs.com/package/jishubuddy)
 
-[需要链接：JishuBuddy 完整安装文档]
 
 ### Install JishuShell
 
@@ -167,20 +156,18 @@ jishubuddy
 
 npm install -g jishushell
 
-[查看完整安装说明]
+[查看完整安装说明](https://github.com/x-aijishu/jishushell)
 
-[需要链接：https://github.com/x-aijishu/jishushell]
 
 ## Community
 
 欢迎关注产品进展、真实测试和开发记录。
 
-- 官方网站：[需要链接：AIJISHU 官网]
+- 官方网站：https://aijishu.com/
 - 公众号：[需要图片或链接：公众号二维码/公众号介绍页]
-- 小红书：[需要链接：AIJISHU 小红书官方号]
-- npm：[需要链接：AIJISHU 或各产品 npm 页面]
-- 问题反馈：[需要链接：统一反馈入口]
-- 商务与合作：[需要信息：公开邮箱]
+- 小红书：极术社区AI实验室
+- npm：https://www.npmjs.com/~manager-aijishu
+- 商务与合作：bd@aijishu.com
 
 ## About AIJISHU
 

@@ -124,6 +124,8 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 
 [需要链接：https://github.com/x-aijishu/jishubench]
 -->
+
+<!--
 ## Get Started
 
 ### Install JishuBuddy
@@ -158,6 +160,7 @@ npm install -g jishushell
 
 [查看完整安装说明](https://github.com/x-aijishu/jishushell)
 
+-->
 
 ## Community
 

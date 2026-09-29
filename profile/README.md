@@ -80,6 +80,9 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 
 [需要链接：JishuBuddy 快速开始文档或 GitHub 产品仓库]
 -->
+
+
+<!--
 ## Agent Skills
 
 我们正在把具体问题做成 Agent 可以发现和使用的 Skills。
@@ -96,6 +99,10 @@ JishuBuddy 尝试继续向前一步：通过 SSH 和串口连接开发板、远�
 覆盖知识库连接与检索、行业研究、数据核验、PPT、网站、公众号和小红书内容制作等任务。
 
 [查看 JishuDB Skills](https://github.com/x-aijishu/jishudb-skills)
+
+-->
+
+
 
 <!--
 ## Featured Projects
